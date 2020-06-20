@@ -11,7 +11,6 @@ print(new_class)
 
 # Code ends here
 
-
 # --------------
 # Code starts here
 courses = {"Math":65, "English":70, "History":80, "French":70, "Science":60}
@@ -22,7 +21,6 @@ percentage = (total/500)*100
 print(percentage)
 # Code ends here
 
-
 # --------------
 # Code starts here
 mathematics = {"Geoffrey Hinton":78, "Andrew Ng":95, "Sebastian Raschka":65, "Yoshua Benjio":50, "Hilary Mason":70, "Corinna Cortes":66, "Peter Warden":75}
@@ -30,7 +28,6 @@ topper = max(mathematics, key = mathematics.get)
 print(topper)
 
 # Code ends here  
-
 
 # --------------
 # Given string
@@ -43,8 +40,4 @@ full_name = last_name + " "  + first_name
 certificate_name = full_name.upper()
 print(certificate_name)
 
-
-
 # Code ends here
-
-
